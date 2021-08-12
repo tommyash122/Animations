@@ -1,2 +1,2 @@
 # Animations
-Software that displays simple animation
+Software that displays simple animation using JAVAFX library
